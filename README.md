@@ -9,6 +9,7 @@ Reusable, inspectable procedures built for the [Rote Playoffs Hackathon](https:/
 | # | Play | What it does | Code | Registry |
 |---|---|---|---|---|
 | 1 | **paper-brief** | Evidence-bounded research paper briefs: abstract, section map, every metric with dataset + task, novelty claims quoted verbatim | [rote-paper-brief](https://github.com/Vedang-P/rote-paper-brief) | [vedang/paper-brief@0.1.0](https://play.modiqo.ai/vedang/paper-brief@0.1.0) |
+| 2 | **env-setup-brief** | One-shot env + API-key setup briefs discovered from project code (7 languages, compose, README), name-only dotenv census, provider map with console URLs | [rote-env-setup-brief](https://github.com/Vedang-P/rote-env-setup-brief) | [vedang/env-setup-brief@0.1.0](https://play.modiqo.ai/vedang/env-setup-brief@0.1.0) |
 | 2 | **contribution-ready** | Will they merge MY PR? Profiles an upstream GitHub repo from the public API: outsider throughput, maintainer response, friction, onramp → GO / AVOID / UNSURE with evidence | [rote-contribution-ready](https://github.com/Vedang-P/rote-contribution-ready) | [vedang/contribution-ready@0.1.0](https://play.modiqo.ai/vedang/contribution-ready@0.1.0) |
 
 ## How to run any Play here
@@ -36,7 +37,7 @@ Plus: bundled self-check fixtures that run on every invocation, presentation fix
 
 - [x] **paper-brief** — research paper briefs ([registry](https://play.modiqo.ai/vedang/paper-brief@0.1.0) · [code](https://github.com/Vedang-P/rote-paper-brief))
 - [x] **contribution-ready** — is this OSS repo alive? PR-worthiness verdict ([registry](https://play.modiqo.ai/vedang/contribution-ready@0.1.0) · [code](https://github.com/Vedang-P/rote-contribution-ready))
-- [ ] **env-setup-doctor** — one-shot API-key + environment setup audit
+- [x] **env-setup-brief** — one-shot env + API-key setup briefs ([registry](https://play.modiqo.ai/vedang/env-setup-brief@0.1.0) · [code](https://github.com/Vedang-P/rote-env-setup-brief))
 - [ ] **session-handoff** — uniform cross-session workflow brief
 - [ ] **venue-eligibility** — workshop/conference fit + eligibility check
 - [ ] **model-radar** — new model drop summary + benchmark context
