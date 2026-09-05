@@ -8,7 +8,7 @@ Reusable, inspectable procedures built for the [Rote Playoffs Hackathon](https:/
 
 | # | Play | What it does | Code | Registry |
 |---|---|---|---|---|
-| 1 | **paper-brief** | Evidence-bounded research paper briefs: abstract, section map, every metric with dataset + task, novelty claims quoted verbatim | [rote-paper-brief](https://github.com/Vedang-P/rote-paper-brief) | `vedang/paper-brief` |
+| 1 | **paper-brief** | Evidence-bounded research paper briefs: abstract, section map, every metric with dataset + task, novelty claims quoted verbatim | [rote-paper-brief](https://github.com/Vedang-P/rote-paper-brief) | [vedang/paper-brief@0.1.0](https://play.modiqo.ai/vedang/paper-brief@0.1.0) |
 
 ## How to run any Play here
 
@@ -33,7 +33,7 @@ Plus: bundled self-check fixtures that run on every invocation, presentation fix
 
 ## Roadmap
 
-- [x] **paper-brief** — research paper briefs (shipped)
+- [x] **paper-brief** — research paper briefs ([registry](https://play.modiqo.ai/vedang/paper-brief@0.1.0) · [code](https://github.com/Vedang-P/rote-paper-brief))
 - [ ] **contribution-ready** — is this OSS repo alive? PR-worthiness verdict
 - [ ] **env-setup-doctor** — one-shot API-key + environment setup audit
 - [ ] **session-handoff** — uniform cross-session workflow brief
