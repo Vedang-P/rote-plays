@@ -9,6 +9,7 @@ Reusable, inspectable procedures built for the [Rote Playoffs Hackathon](https:/
 | # | Play | What it does | Code | Registry |
 |---|---|---|---|---|
 | 1 | **paper-brief** | Evidence-bounded research paper briefs: abstract, section map, every metric with dataset + task, novelty claims quoted verbatim | [rote-paper-brief](https://github.com/Vedang-P/rote-paper-brief) | [vedang/paper-brief@0.1.0](https://play.modiqo.ai/vedang/paper-brief@0.1.0) |
+| 2 | **contribution-ready** | Will they merge MY PR? Profiles an upstream GitHub repo from the public API: outsider throughput, maintainer response, friction, onramp → GO / AVOID / UNSURE with evidence | [rote-contribution-ready](https://github.com/Vedang-P/rote-contribution-ready) | [vedang/contribution-ready@0.1.0](https://play.modiqo.ai/vedang/contribution-ready@0.1.0) |
 
 ## How to run any Play here
 
@@ -34,7 +35,7 @@ Plus: bundled self-check fixtures that run on every invocation, presentation fix
 ## Roadmap
 
 - [x] **paper-brief** — research paper briefs ([registry](https://play.modiqo.ai/vedang/paper-brief@0.1.0) · [code](https://github.com/Vedang-P/rote-paper-brief))
-- [ ] **contribution-ready** — is this OSS repo alive? PR-worthiness verdict
+- [x] **contribution-ready** — is this OSS repo alive? PR-worthiness verdict ([registry](https://play.modiqo.ai/vedang/contribution-ready@0.1.0) · [code](https://github.com/Vedang-P/rote-contribution-ready))
 - [ ] **env-setup-doctor** — one-shot API-key + environment setup audit
 - [ ] **session-handoff** — uniform cross-session workflow brief
 - [ ] **venue-eligibility** — workshop/conference fit + eligibility check
