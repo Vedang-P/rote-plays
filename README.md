@@ -8,7 +8,7 @@ Reusable, inspectable procedures built for the [Rote Playoffs Hackathon](https:/
 
 | # | Play | What it does | Code | Registry |
 |---|---|---|---|---|
-| 1 | **paper-brief** | Evidence-bounded research paper briefs: abstract, section map, every metric with dataset + task, novelty claims quoted verbatim | [rote-paper-brief](https://github.com/Vedang-P/rote-paper-brief) | [vedang/paper-brief@0.1.1](https://play.modiqo.ai/vedang/paper-brief@0.1.1) |
+| 1 | **paper-brief** | Evidence-bounded research paper briefs: abstract, section map, every metric with dataset + task, novelty claims quoted verbatim | [rote-paper-brief](https://github.com/Vedang-P/rote-paper-brief) | [vedang/paper-brief@0.2.0](https://play.modiqo.ai/vedang/paper-brief@0.2.0) |
 | 2 | **env-setup-brief** | One-shot env + API-key setup briefs discovered from project code (7 languages, compose, README), name-only dotenv census, provider map with console URLs | [rote-env-setup-brief](https://github.com/Vedang-P/rote-env-setup-brief) | [vedang/env-setup-brief@0.1.2](https://play.modiqo.ai/vedang/env-setup-brief@0.1.2) |
 | 3 | **contribution-ready** | Will this OSS repo merge MY PR? GO/AVOID/UNSURE verdict profiled from the public GitHub API: outsider throughput, maintainer response, friction, onramp | [rote-contribution-ready](https://github.com/Vedang-P/rote-contribution-ready) | [vedang/contribution-ready@0.1.0](https://play.modiqo.ai/vedang/contribution-ready@0.1.0) |
 | 4 | **claim-vs-build** | Asked vs claimed vs built, checked deterministically: file/action/command claims scored against the repo and diff, repo-declared checks executed for real, ASK gaps flagged | [rote-claim-vs-build](https://github.com/Vedang-P/rote-claim-vs-build) | [vedang/claim-vs-build@0.1.0](https://play.modiqo.ai/vedang/claim-vs-build@0.1.0) |
@@ -38,7 +38,7 @@ Plus: bundled self-check fixtures that run on every invocation, presentation fix
 
 ## Roadmap
 
-- [x] **paper-brief** — research paper briefs ([registry](https://play.modiqo.ai/vedang/paper-brief@0.1.1) · [code](https://github.com/Vedang-P/rote-paper-brief))
+- [x] **paper-brief** — research paper briefs ([registry](https://play.modiqo.ai/vedang/paper-brief@0.2.0) · [code](https://github.com/Vedang-P/rote-paper-brief))
 - [x] **contribution-ready** — is this OSS repo alive? PR-worthiness verdict ([registry](https://play.modiqo.ai/vedang/contribution-ready@0.1.0) · [code](https://github.com/Vedang-P/rote-contribution-ready))
 - [x] **env-setup-brief** — one-shot env + API-key setup briefs ([registry](https://play.modiqo.ai/vedang/env-setup-brief@0.1.2) · [code](https://github.com/Vedang-P/rote-env-setup-brief))
 - [x] **session-handoff** — cross-harness context transfer ([registry](https://play.modiqo.ai/vedang/session-handoff@0.1.1) · [code](https://github.com/Vedang-P/rote-session-handoff))
